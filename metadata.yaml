@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '3207'
     url: http://www.gutenberg.org/2009/agents/3207
 description: A novel dealing with the tragedy of racial miscegenation.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43616#The-Quaint-CompanionsWith-an-Introduction-by-H.-G.-Wells
 gutenberg_issued: '2013-09-01'
 gutenberg_type: Text
 identifiers:
